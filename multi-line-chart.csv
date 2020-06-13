@@ -120,6 +120,7 @@ Confirmed-case,9/6/2020,332
 Confirmed-case,10/6/2020,332
 Confirmed-case,11/6/2020,332
 Confirmed-case,12/6/2020,333
+Confirmed-case,13/6/2020,334
 Active-case,13/2/2020,9
 Active-case,14/2/2020,9
 Active-case,15/2/2020,9
@@ -240,7 +241,8 @@ Active-case,8/6/2020,12
 Active-case,9/6/2020,12
 Active-case,10/6/2020,12
 Active-case,11/6/2020,12
-Active-case,12/6/2020,12
+Active-case,12/6/2020,10
+Active-case,13/6/2020,11
 Recovered-case,13/2/2020,7
 Recovered-case,14/2/2020,7
 Recovered-case,15/2/2020,7
@@ -361,4 +363,5 @@ Recovered-case,8/6/2020,320
 Recovered-case,9/6/2020,320
 Recovered-case,10/6/2020,320
 Recovered-case,11/6/2020,320
-Recovered-case,12/6/2020,321
+Recovered-case,12/6/2020,323
+Recovered-case,13/6/2020,323
